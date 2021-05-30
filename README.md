@@ -1,7 +1,5 @@
-# cookie-monster
+# Cookie-Monster Task
 
-
-# FAQ Project
 
 I've took challange from: [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/cookie-monster) to help me improve coding skills by building realistic projects.
 
